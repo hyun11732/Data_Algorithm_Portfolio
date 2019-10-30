@@ -9,6 +9,6 @@ Sequence-Pattern-Recommendation Algorithm : https://github.com/hyun11732/Sequenc
 
 Decision Tree Algorithm : https://github.com/hyun11732/Decision_Tree
 
-Apori(Recommendation) Algorithm : https://github.com/hyun11732/Apori-implementation
+Apriori(Recommendation) Algorithm : https://github.com/hyun11732/Apori-implementation
 
 KNN Algorithm : https://github.com/hyun11732/KNN

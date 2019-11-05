@@ -1,4 +1,4 @@
-# Data Mining Alogrithm Implementations
+# Machine Learning/Data Mining Alogrithm Implementation Portfolio
 
 I have implemented five representive data mining algorithms: K-Men, Sequence Pattern Recommendation, Decision Tree, Apori, KNN.
 I have written the details in the each link. I am a just junior developer so there are some inefficient things in my code. Do not hesitate to tell me about it!

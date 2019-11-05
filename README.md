@@ -16,5 +16,3 @@ KNN Algorithm : https://github.com/hyun11732/KNN
 
 Hidden Markov Models(HHM) : https://github.com/hyun11732/HHM-POS-Tagging
 
-
-If you have any question, please send email to hyun11732@gmail.com
